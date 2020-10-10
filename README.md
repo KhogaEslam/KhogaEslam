@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khogaeslam/)
+
+My Github Stats: 
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=khogaeslam&show_icons=true&theme=radical">
+</p>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=khogaeslam&langs_count=10&hide=css,html&theme=tokyonight">
+</p>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=radical">
+</p>
