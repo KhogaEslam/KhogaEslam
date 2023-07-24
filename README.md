@@ -35,5 +35,5 @@ My Github Stats:
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=khogaeslam&theme=radical">
 </p>
