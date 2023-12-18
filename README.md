@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khogaeslam/)
 
+<!--
 My Github Stats: 
 
 <br>
@@ -37,3 +38,4 @@ My Github Stats:
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=khogaeslam&theme=radical">
 </p>
+-->
